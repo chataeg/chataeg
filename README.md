@@ -1,6 +1,6 @@
 ### 안녕하세요. 반갑습니다.
 
-🐋. ><{{{.______)  고래 입니다.
+🐋. ><{{{.______)  귀여운 고래 입니다. 
 
 <!--
 **chataeg/chataeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
