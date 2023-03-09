@@ -1,5 +1,4 @@
 ### 안녕하세요. 반갑습니다.
-### 👯 I’m looking to collaborate on ... "SAI SEASON 6"
 
 <!--
 **chataeg/chataeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
