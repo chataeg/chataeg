@@ -1,5 +1,4 @@
-### 안녕하세요. 반갑습니다.
-
+### 게임 클라이언트 개발자 지망생 차태관 입니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chataeg)](https://solved.ac/chataeg/)
 <!--
