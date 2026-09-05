@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 
 [티스토리 기술 블로그](https://plug-in-baby.tistory.com/)
-<img width="1600" height="900" alt="스크린샷 2026-09-05 145931" src="https://github.com/user-attachments/assets/f326c692-db35-46b5-bf8a-2e24ceab0f5e" />
+<img width="1600" height="1200" alt="스크린샷 2026-09-05 145931" src="https://github.com/user-attachments/assets/f326c692-db35-46b5-bf8a-2e24ceab0f5e" />
